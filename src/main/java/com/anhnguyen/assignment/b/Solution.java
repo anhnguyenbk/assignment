@@ -30,7 +30,7 @@ public class Solution {
         shark.eatOtherFish();
 
         // Question 3
-        // a. Dolphin extends animal class and implement for Swim interface.
+        // a. Dolphin extends Animal class and implement for Swim interface.
 
     }
 }
